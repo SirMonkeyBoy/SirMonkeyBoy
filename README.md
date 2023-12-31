@@ -6,7 +6,7 @@ I get bored then code things
 
 Sometime they do something useful sometimes their just for fun
 
-* 🧠  I'm learning Java and Python
+* 🧠  I'm learning Java
 
 ### Skills
 
