@@ -24,7 +24,7 @@ Sometime they do something useful sometimes their just for fun
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/SirMonkeyBoy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SirMonkeyBoy&stroke=84cc16&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=84cc16&currStreakLabel=0891b2&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
+<a href="http://www.github.com/SirMonkeyBoy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SirMonkeyBoy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/SirMonkeyBoy"><img src="https://github-readme-activity-graph.vercel.app/graph?username=SirMonkeyBoy&bg_color=1c1917&color=84cc16&line=0891b2&point=84cc16&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
